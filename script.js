@@ -4,13 +4,13 @@ import { getDatabase, ref, push, onChildAdded } from "https://www.gstatic.com/fi
 
 // ✅ Your Firebase config (replace with yours)
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  databaseURL: "YOUR_DATABASE_URL",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_BUCKET",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyAAcS1yA-nBNwwfnvXJk4D29G7QnloJej0",
+  authDomain: "simple-chat-app-3106e.firebaseapp.com",
+  projectId: "simple-chat-app-3106e",
+  storageBucket: "simple-chat-app-3106e.firebasestorage.app",
+  messagingSenderId: "311571612677",
+  appId: "1:311571612677:web:9738882249882187ab886c",
+  measurementId: "G-80MSYTBMG0"
 };
 
 // Initialize Firebase
